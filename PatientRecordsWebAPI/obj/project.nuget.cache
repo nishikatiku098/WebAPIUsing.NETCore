@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i98EdaYyIrUGY3unIaNLMf+kTIuXS0WVQynQFiT5dwVacGk2ci5Igw7kZiCuxVLRccJCEQ14bQD8QubtPOQc8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nishika Tiku\\Documents\\GitHub\\WebAPIUsing.NETCore\\PatientRecordsWebAPI\\PatientRecordsWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nishika Tiku\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nishika Tiku\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nishika Tiku\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nishika Tiku\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nishika Tiku\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nishika Tiku\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

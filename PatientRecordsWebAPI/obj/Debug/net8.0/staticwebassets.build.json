@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lag1M1gDdIvfsknF2YxtvXvWRqnIiyEjLoLzGrbN0qg=",
+  "Source": "PatientRecordsWebAPI",
+  "BasePath": "_content/PatientRecordsWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
